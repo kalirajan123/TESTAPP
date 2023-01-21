@@ -25,6 +25,6 @@ end on
 on w_test.destroy
 end on
 
-event open;open(w_test)
+event open;messagebox("","github")
 end event
 
